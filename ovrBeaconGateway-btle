@@ -1,0 +1,21 @@
+Reference, Value, Footprint, Datasheet, Manufacturer, Man. Part Num., Supplier, Supplier Part Num., Comp. Value
+U4,INTERSIL_ISL32602EFBZ,ovrEngineered:SOIC-14,http://www.intersil.com/content/dam/Intersil/documents/fn79/fn7967.pdf,Intersil,ISL32602EFBZ,Digi-Key,ISL32602EFBZ-ND,
+U5,BLUEGIGA_BLE121,ovrEngineered:BLE121,http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE121LR_V1.2.pdf,BlueGiga,BLE121LR-A-M256K,Digi-Key,1446-1039-1-ND,
+J1,CONN_RJ45_RA,ovrEngineered:RJ45_NOMAG_RA,http://productfinder.pulseeng.com/products/datasheets/E6588-52L184-L.pdf,Pulse Electronics,E6588-52L184-L,Digi-Key,553-2265-ND,
+U2,TOREX_XC6210,ovrEngineered:SOT-25-5,https://www.torexsemi.com/file/xc6210/XC6210.pdf,Torex Semiconductor,XC6210B332MR-G,Digi-Key,893-1075-1-ND,
+C1,C_10uF_10v_0805,ovrEngineered:C_0805,http://psearch.murata.com/capacitor/product/GRM21BR71A106KE51%23.pdf,Murata,GRM21BR71A106KE51L,Digi-Key,490-3905-1-ND,10uF
+C2,C_10uF_10v_0805,ovrEngineered:C_0805,http://psearch.murata.com/capacitor/product/GRM21BR71A106KE51%23.pdf,Murata,GRM21BR71A106KE51L,Digi-Key,490-3905-1-ND,10uF
+D1,LED_GREEN_0603,ovrEngineered:D_0603,http://optoelectronics.liteon.com/upload/download/DS22-2007-0094/S_110_LTST-C193KGKT-5A.pdf,Lite-On Inc,LTST-C193KGKT-5A,Digi-Key,160-1828-1-ND,Green
+R1,R_402_1%_0603,ovrEngineered:R_0603,http://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay_Dale,CRCW0603402RFKEA,Digi-Key,541-402HCT-ND,402
+C4,C_0.1uF_10v_0603,ovrEngineered:C_0603,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R71C104KA01-01.pdf,Murata,GRM188R71C104KA01D,Digi-Key,490-1532-1-ND,0.1uF
+R10,R_10K_1%_0603,ovrEngineered:R_0603,http://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay_Dale,CRCW060310K0FKEA,Digi-Key,541-10.0KHCT-ND,10K
+U1,SILICONLABS_SI7050,ovrEngineered:SILICONLABS_SI7050,http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7050-1-3-4-5-A20.pdf,Silicon Labs,SI7050-A20-IM,Digi-Key,336-3118-5-ND,
+R4,R_10K_1%_0603,ovrEngineered:R_0603,http://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay_Dale,CRCW060310K0FKEA,Digi-Key,541-10.0KHCT-ND,10K
+R5,R_10K_1%_0603,ovrEngineered:R_0603,http://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay_Dale,CRCW060310K0FKEA,Digi-Key,541-10.0KHCT-ND,10K
+D2,LED_BLUE_0603,ovrEngineered:D_0603,http://optoelectronics.liteon.com/upload/download/DS22-2007-0094/S_110_LTST-C193KGKT-5A.pdf,Lite-On Inc,LTST-C193TBKT-5A,Digi-Key,160-1827-1-ND,Blue
+R2,R_402_1%_0603,ovrEngineered:R_0603,http://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay_Dale,CRCW0603402RFKEA,Digi-Key,541-402HCT-ND,402
+Q1,FET_N_1.2A_20V,ovrEngineered:FET_N_1.2A_20V,http://www.irf.com/product-info/datasheets/data/irlml2402pbf.pdf,International Rectifier,IRLML2402TRPBF,Digi-Key,IRLML2402PBFCT-ND,
+U3,LITEON_LTR-329ALS,ovrEngineered:LITEON_LTR-329ALS,http://optoelectronics.liteon.com/upload/download/DS86-2014-0006/S_110_LTR-329ALS-01_DS_V1.pdf,Lite-On,LTR-329ALS-01,Digi-Key,160-2160-1-ND,
+J2,CONN_1.27MM_5X2,ovrEngineered:20021111-00010T4LF,http://portal.fciconnect.com/Comergent//fci/drawing/20021111.pdf,Amphenol,20021111-00010T4LF,Digi-Key,609-3712-ND,
+C5,C_0.1uF_10v_0603,ovrEngineered:C_0603,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R71C104KA01-01.pdf,Murata,GRM188R71C104KA01D,Digi-Key,490-1532-1-ND,0.1uF
+U6,MIC803-29D4VM3,ovrEngineered:SOT-23-3,http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580643,Microchip Technology,MIC803-29D4VM3-TR,Digi-Key,576-3806-1-ND,
